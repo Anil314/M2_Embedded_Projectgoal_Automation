@@ -10,8 +10,8 @@
  * @copyright Copyright (c) 2021
  * 
  */
- #pragma region 
- printf(%d ,a);
+ 
+
 
 
 /**
