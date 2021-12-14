@@ -11,6 +11,7 @@
  * 
  */
  #pragma region 
+ printf(%d ,a);
 
 
 /**
